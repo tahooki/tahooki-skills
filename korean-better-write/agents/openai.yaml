@@ -1,0 +1,4 @@
+interface:
+  display_name: "korean-better-write"
+  short_description: "독자에게 필요한 내용을 먼저 고르고 자연스러운 한국어로 다듬기"
+  default_prompt: "$korean-better-write 스킬로 이 글을 독자와 용도에 맞게 편집하고 불필요한 내용을 덜어 주세요."
